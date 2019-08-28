@@ -1,0 +1,1 @@
+Teste sensor de temperatura DHT22 Arduino.
